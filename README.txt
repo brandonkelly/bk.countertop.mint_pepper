@@ -20,7 +20,7 @@ Installing Countertop Pepper
 5. Specify the name of the table you'd like to count in the Preferences.
 
 ================================================================================
-Copyright 2007 Brandon Kelly. This package cannot be redistributed without
+Copyright 2009 Brandon Kelly. This package cannot be redistributed without
 permission from http://brandon-kelly.com/
 
-More info at: http://brandon-kelly.com/countertop/
+More info at: http://brandon-kelly.com/apps/countertop
